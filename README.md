@@ -1,4 +1,4 @@
-OF SERVICE FOR kyokoa BOT.md TERMS OF SERVICE FOR kyokoa BOT
+SERVICE FOR kyokoa BOT.md TERMS OF SERVICE FOR kyokoa BOT
 
 Service Agreement
 
@@ -18,7 +18,7 @@ Our bot does not collect any personal user data, so users can be confident that 
 
 Our bot usage is to collect data for each server.And if users don't want to use the bot,Remove the bot from the server. The bot will immediately delete the stored data.
 
-The bot will collect data from the system.setup various To make it work better, such as: photo guild user. and role and channel And you can request Don't let us collect your data By not set up system all
+The bot will collect data from the system.setup various To make it work better, such as: photo guild user. and role and channel And message You can request that we delete your data at any time.pass Discord Support 
 
 
-And you can contact us via discord Support  :  https://discord.com/invite/v8WcteCUwr
+And you can contact us via discord Support : https://discord.com/invite/v8WcteCUwr
