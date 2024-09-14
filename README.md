@@ -1,7 +1,4 @@
-# Bot-Policy-kyokoa-
-
-OF SERVICE FOR kyokoa BOT.md
-TERMS OF SERVICE FOR kyokoa BOT
+OF SERVICE FOR kyokoa BOT.md TERMS OF SERVICE FOR kyokoa BOT
 
 Service Agreement
 
@@ -19,13 +16,9 @@ Security
 
 Our bot does not collect any personal user data, so users can be confident that their privacy is protected. We guarantee that no part of our bot will cause any harm to users' servers
 
-
 Our bot usage is to collect data for each server.And if users don't want to use the bot,Remove the bot from the server. The bot will immediately delete the stored data.
 
-บริการสำหรับ kyokoa BOT.md
-เงื่อนไขการให้บริการสำหรับ kyokoa BOT
+The bot will collect data from the system.setup various To make it work better, such as: photo guild user. and role and channel And you can request Don't let us collect your data By not set up system all
 
-ข้อตกลงการให้บริการ
 
-การใช้ kyokoa Bot ถือว่าคุณยอมรับข้อกำหนดและเงื่อนไขทั้งหมดของข้อตกลงการให้บริการนี้ ผู้ใช้จะต้องปฏิบัติตามข้อกำหนดและเงื่อนไขที่บังคับใช้
-
+And you can contact us via discord Support  :  https://discord.com/invite/v8WcteCUwr
