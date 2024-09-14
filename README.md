@@ -18,3 +18,14 @@ We will assume responsibility if we find that our bot has caused damage.
 Security
 
 Our bot does not collect any personal user data, so users can be confident that their privacy is protected. We guarantee that no part of our bot will cause any harm to users' servers
+
+
+Our bot usage is to collect data for each server.And if users don't want to use the bot,Remove the bot from the server. The bot will immediately delete the stored data.
+
+บริการสำหรับ kyokoa BOT.md
+เงื่อนไขการให้บริการสำหรับ kyokoa BOT
+
+ข้อตกลงการให้บริการ
+
+การใช้ kyokoa Bot ถือว่าคุณยอมรับข้อกำหนดและเงื่อนไขทั้งหมดของข้อตกลงการให้บริการนี้ ผู้ใช้จะต้องปฏิบัติตามข้อกำหนดและเงื่อนไขที่บังคับใช้
+
