@@ -1,4 +1,4 @@
-[en]
+[EN]
 
 SERVICE FOR kyokoa BOT.md TERMS OF SERVICE FOR kyokoa BOT
 
