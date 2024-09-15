@@ -24,7 +24,7 @@ The bot will collect data from the system.setup various To make it work better, 
 
 
 And you can contact us via discord Support : https://discord.com/invite/v8WcteCUwr
-
+Contact Support: Kyokoa_Sup@outlook.com
 
 [TH]
 
@@ -52,3 +52,4 @@ And you can contact us via discord Support : https://discord.com/invite/v8WcteCU
 
 
 และคุณสามารถติดต่อเราผ่านทาง discord Support :https://discord.com/invite/v8WcteCUwr
+ติดต่อ ซับพอร์ต : Kyokoa_Sup@outlook.com
